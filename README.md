@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **abanoubrwassad@gmail.com**
 
-<h4>If you love football, basketball,cats :cat2:, coffee and interested in programming as much as I am, so let's have a talk while drinking coffee :coffee:</h4>
+<h4>If you love football :soccer:	, basketball :basketball:	,cats :cat2:, coffee and interested in programming as much as I am, so let's have a talk while drinking coffee :coffee:</h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abanoub assad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abanoub assad" height="30" width="40" /></a>
