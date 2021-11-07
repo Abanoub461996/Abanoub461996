@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abanoub</h1>
 <h3 align="center">a developer who enjoys developing as much as code delivering</h3>
 
+<img style="display:block;" alt="aljagne's Github Stats" src="https://www.bardown.com/polopoly_fs/1.951196!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/michael-scott.png" />
+
+
 - 📫 How to reach me **abanoubrwassad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
